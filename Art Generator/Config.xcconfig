@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  Art Generator
+//
+//  Created by Ellie on 6/19/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = Bearer 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
